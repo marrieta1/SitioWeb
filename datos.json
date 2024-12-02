@@ -1,15 +1,15 @@
 [
     {
-        "nombre": "Guitarra Eléctrica",
-        "subtitulo": "Gráfico",
+        "nombre": "Fragma",
+        "subtitulo": "Producto",
         "descripcion": "Este trabajo fue un examen que se llevo a cabo en el curso Diseño por Computación en el cual recopila todo lo enseñado sobre el uso de diferentes herramientas de modelado 3D. Se utilizaron programas como Rhino 7, Keyshot y Fusion 360. Esta guitarra esta inspirada en Mick Thompson, guitarrista de la banda Spliknot",
-        "fecha": "2023",
-        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu.webp",
+        "fecha": "2024",
+        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Fragma-00.webp",
         "fotos": [
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-0.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-1.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-2.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-3.webp"
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Fragma-01.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Fragma-02.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Fragma-03.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Fragma-04.webp"
         ],
         "github": "https://github.com/marrieta1"
     },
