@@ -42,16 +42,16 @@
         "github": "https://github.com/marrieta1"
     },
     {
-        "nombre": "Isotipos",
-        "descripcion": "Gráfico",
+        "nombre": "FreshFill",
+        "descripcion": "Servicio",
         "descripcion": "Este proyecto fue desarrollado en el curso de Diseño de Información. La tarea consistió en seleccionar los elementos más icónicos de la película Los Excéntricos Tenenbaum y representarlos mediante íconos en blanco y negro. El desafío principal fue simplificar al máximo la información visual, manteniendo la claridad necesaria para que cada elemento fuera fácilmente reconocible y comprensible.",
         "fecha": "2023",
-        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu.webp",
+        "foto": "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/FreshFill-01.webp",
         "fotos": [
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-0.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-1.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-2.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-3.webp"
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/FreshFill-01.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/FreshFill-02.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/FreshFill-03.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/FreshFill-04.webp"
         ],
         "github": "https://github.com/marrieta1"
     },
