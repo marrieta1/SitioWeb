@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Fragma",
-        "subtitulo": "Servicio",
+        "subtitulo": "Producto",
         "descripcion": "Este proyecto fue desarrollado como parte del Taller VII y presenta FRAGMA, un dispositivo diseñado para pacientes con cáncer de mama que enfrentan fatiga física y mental durante el tratamiento de quimioterapia. El dispositivo permite a las pacientes identificar su nivel de energía a través de un sistema de luces indicadoras, que varían del rojo al verde según su nivel energético. La tecnología utilizada para esta medición es el SpO2 (saturación de oxígeno en la sangre), que proporciona datos clave para evaluar la fatiga física y el bienestar general de manera práctica y visual.",
         "foto": "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Fragma-00.webp",
         "fotos": [
@@ -70,7 +70,7 @@
     },
     {
         "nombre": "Daff Ración Esperanza",
-        "subtitulo": "Servicio",
+        "subtitulo": "Producto",
         "descripcion": "Daff Ración Esperanza es un proyecto desarrollado durante un curso de verano en colaboración con la marca Daff. El objetivo principal fue crear una nueva ración MRE (Meal Ready-to-Eat) diseñada específicamente para asistir a ciudadanos chilenos afectados por diversas catástrofes. Además, esta ración está pensada para ser utilizada en ollas comunes, permitiendo su fácil porcionamiento y distribución entre familias.",
         "fecha": "2024",
         "foto": "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Daff-00.webp",
