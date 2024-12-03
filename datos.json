@@ -2,8 +2,7 @@
     {
         "nombre": "Fragma",
         "subtitulo": "Servicio",
-        "descripcion": "Este trabajo fue un examen que se llevo a cabo en el curso Diseño por Computación en el cual recopila todo lo enseñado sobre el uso de diferentes herramientas de modelado 3D. Se utilizaron programas como Rhino 7, Keyshot y Fusion 360. Esta guitarra esta inspirada en Mick Thompson, guitarrista de la banda Spliknot",
-        "fecha": "2024",
+        "descripcion": "Este proyecto fue desarrollado como parte del Taller VII y presenta FRAGMA, un dispositivo diseñado para pacientes con cáncer de mama que enfrentan fatiga física y mental durante el tratamiento de quimioterapia. El dispositivo permite a las pacientes identificar su nivel de energía a través de un sistema de luces indicadoras, que varían del rojo al verde según su nivel energético. La tecnología utilizada para esta medición es el SpO2 (saturación de oxígeno en la sangre), que proporciona datos clave para evaluar la fatiga física y el bienestar general de manera práctica y visual.",
         "foto": "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Fragma-00.webp",
         "fotos": [
             "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Fragma-01.webp",
@@ -30,7 +29,7 @@
     {
         "nombre": "Minutare",
         "subtitulo": "Industrial",
-        "descripcion": "Fue un proyecto que se llevo a cabo de manera grupal para el ramo Estructura y Materiales. Minutare es un reloj que marca por cada cuartos de hora (1 hora en total) que estaa hecho a base de un pequeño mecanismo cubierto por una plataforma de cemento. Lo que marca los cuarto de hora es un acrilico de color morado y moldeado de emanera curva. Este proyecto fue seleccionado por profesores para el open day.",
+        "descripcion": "Este proyecto fue realizado de manera grupal en el marco del curso Estructura y Materiales. Minutare es un reloj diseñado para marcar cada cuarto de hora durante un período de una hora. Su diseño combina un mecanismo simple cubierto por una plataforma de cemento, mientras que las divisiones de tiempo se representan mediante una pieza curva de acrílico morado moldeado específicamente para este propósito. El proyecto fue reconocido por su diseño innovador y fue seleccionado por los profesores para exhibirse en el Open Day.",
         "fecha": "2022",
         "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus.webp",
         "fotos": [
@@ -44,7 +43,7 @@
     {
         "nombre": "FreshFill",
         "descripcion": "Servicio",
-        "descripcion": "Este proyecto fue desarrollado en el curso de Diseño de Información. La tarea consistió en seleccionar los elementos más icónicos de la película Los Excéntricos Tenenbaum y representarlos mediante íconos en blanco y negro. El desafío principal fue simplificar al máximo la información visual, manteniendo la claridad necesaria para que cada elemento fuera fácilmente reconocible y comprensible.",
+        "descripcion": "FreshFill es un desodorante roll-on autorecargable disponible en diversas farmacias estratégicamente distribuidas a lo largo del país. Inspirado en el modelo de negocio de Algramo, FreshFill adopta una filosofía similar al permitir que los usuarios recarguen el producto en lugar de comprarlo en unidades completas. FreshFill ofrece aromas unisex, diseñados para ser utilizados por personas de cualquier género, promoviendo así la inclusión y reduciendo la necesidad de múltiples líneas de producto. Esta solución no solo apoya prácticas sostenibles sino que también fomenta el consumo responsable.",
         "fecha": "2023",
         "foto": "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/FreshFill-00.webp",
         "fotos": [
