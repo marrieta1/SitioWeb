@@ -56,15 +56,15 @@
     },
     {
         "nombre": "Indumentaria SRC",
-        "subtitulo": "Servicio | Textil",
+        "subtitulo": "Producto",
         "descripcion": "Este proyecto de Taller VIII fue desarrollado en colaboración con el Santiago Runners Club y tuvo como objetivo el rediseño de su línea gráfica. Junto a mi grupo, nos enfocamos específicamente en la indumentaria secundaria destinada a los entrenamientos. El proceso comenzó integrándonos a su rutina mediante trotes semanales, lo que nos permitió comprender mejor la realidad de estos corredores. Además, realizamos entrevistas y sesiones de co-diseño para garantizar que nuestras propuestas respondieran a sus necesidades y expectativas.",
         "fecha": "2024",
-        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita.webp",
+        "foto": "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/SRC-00.webp",
         "fotos": [
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-0.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-1.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-2.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-3.webp"
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/SRC-01.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/SRC-02.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/SRC-03.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/src-04.webp"
         ],
         "github": "https://github.com/marrieta1"
     },
