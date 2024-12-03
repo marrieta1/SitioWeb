@@ -27,16 +27,16 @@
         "github": "https://github.com/marrieta1"
     },
     {
-        "nombre": "Minutare",
-        "subtitulo": "Industrial",
-        "descripcion": "Este proyecto fue realizado de manera grupal en el marco del curso Estructura y Materiales. Minutare es un reloj diseñado para marcar cada cuarto de hora durante un período de una hora. Su diseño combina un mecanismo simple cubierto por una plataforma de cemento, mientras que las divisiones de tiempo se representan mediante una pieza curva de acrílico morado moldeado específicamente para este propósito. El proyecto fue reconocido por su diseño innovador y fue seleccionado por los profesores para exhibirse en el Open Day.",
-        "fecha": "2022",
-        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus.webp",
+        "nombre": "Isotipos",
+        "subtitulo": "Gráfico",
+        "descripcion": "l objetivo principal de este proyecto consistía en realizar una simplificación visual de la película Los excéntricos Tenenbaums. Esto implicaba identificar y representar a los personajes y objetos más característicos de la película en una lámina que empleara la menor cantidad de elementos visuales posible. Además, la composición debía estar cuidadosamente diseñada para que, a pesar de su simplicidad, se pudiera interpretar y comprender con claridad la escena específica que se estaba recreando en ese momento. Este enfoque requería un equilibrio entre minimalismo y narrativa visual.",
+        "fecha": "2024",
+        "foto": "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Iso-00.webp",
         "fotos": [
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-0.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-1.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-2.webp",
-            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-3.webp"
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Iso-01.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Iso-02.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Iso-03.webp",
+            "https://raw.githubusercontent.com/marrieta1/SitioWeb/refs/heads/main/assets/Iso-04.webp"
         ],
         "github": "https://github.com/marrieta1"
     },
